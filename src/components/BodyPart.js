@@ -17,6 +17,7 @@ return (
                 backgroundColor : '#ffff'
         } : 
     } 
+    
     >
         <img src={Icon} alt='dumbbell' styles ={ { width :'40px', height:'40px'} }/>
     </Stack>
