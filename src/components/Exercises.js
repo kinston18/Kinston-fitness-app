@@ -39,8 +39,8 @@ fetchExercisesData();
 
 
   return (
-   <Box id="exercises"
-   sx={{mt: {lg:'110px'}}}
+  <Box id="exercises"
+  sx={{mt: {lg:'110px'}}}
     mt="50px"
     p="20px">
 
